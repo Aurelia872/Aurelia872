@@ -1,8 +1,6 @@
-## Aurelia Ferreira - Junior Data Analyst
-
 ![](https://komarev.com/ghpvc/?username=cycosad&color=fb4362)
 
-Hello! I'm Aurelia Ferreira 👋
+## Hello! I'm Aurelia Ferreira 👋
 <p>I have a Diploma in Data Science and Executive Masters Degree in Business Amdinistration. </p>
 <p></p>I am now transitioning into Data Analytics; having worked as a Program Coordinator in Education for 4 years and Customer Services Agent for another 4 years in Aviation</p>
 <!--
